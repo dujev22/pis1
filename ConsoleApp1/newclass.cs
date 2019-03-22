@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class newclass
     {
+       void method()
+        {
+
+        }
     }
 }
